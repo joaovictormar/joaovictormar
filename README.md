@@ -9,7 +9,7 @@ Olá dev, me chamo João Victor, tenho 21 anos, sou do Rio de janeiro e apaixona
 Estudo programação, focado em desenvolvimento web na Alura e curso análise e desenvolvimento de sistemas na UVA (Universidade Veiga de Almeida).
 
 
-## :computer: Ferramentas e Tecnologias :computer:
+## 💻  Ferramentas e Tecnologias 💻 
 
 <div style="display: inline_block">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
@@ -21,7 +21,7 @@ Estudo programação, focado em desenvolvimento web na Alura e curso análise e 
 :pencil: Em busca de me tornar um desenvolvedor fullstack.
 
 
-## :speech_balloon: Contatos :speech_balloon:
+## 💬 Contatos 💬
 
 <div>
   <a href ="mailto:joaomarquesvictor22@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">  </a>
