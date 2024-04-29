@@ -16,8 +16,8 @@ Olá dev, me chamo João Victor, tenho 21 anos, sou do Rio de janeiro e apaixona
 </div>
 <br>
 
-:books: Atualmente estou aprendendo sobre javascript.<br>
-:pencil: Trabalhando com infraestrutura de rede de servidores.
+:books: Atualmente estou aprendendo sobre Java.<br>
+:pencil: Trabalhando com suporte de TI.
 
 ## 💬 Contatos 
 
