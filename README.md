@@ -3,7 +3,7 @@
 <p><img src="https://github-blabal-stats.vercel.app/api?username=joaovictormar&show_icons=true&theme=dark" alt="joaovictormar"></p>
 <br>
 
-Olá dev, me chamo João Victor, tenho 21 anos, sou do Rio de janeiro e apaixonado por tecnologia desde sempre. Trabalho com TI na área de suporte, estudo programação focado em desenvolvimento web na Alura e curso análise e desenvolvimento de sistemas na UVA (Universidade Veiga de Almeida).
+Olá dev, me chamo João Victor, tenho 22 anos, sou do Rio de janeiro e apaixonado por tecnologia desde sempre. Trabalho com TI na área de suporte, estudo programação focado em desenvolvimento web na Alura e curso análise e desenvolvimento de sistemas na UVA (Universidade Veiga de Almeida).
 
 ## 🛠️ Tech Stack 
 <p><img align="left" src="https://github-blabal-stats.vercel.app/api/top-langs/?username=joaovictormar&layout=compact&theme=dark&hide=java" alt="joaovictormar"></p>
@@ -13,11 +13,14 @@ Olá dev, me chamo João Victor, tenho 21 anos, sou do Rio de janeiro e apaixona
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" height="40"/>
 </div>
 <br>
 
-:books: Atualmente estou aprendendo sobre Java.<br>
-:pencil: Trabalhando com suporte de TI.
+:books: Atualmente estou aprendendo sobre React.<br>
+:pencil: Cursando ADS - 4/6
+:man_technologist: Trabalhando com suporte de TI.
 
 ## 💬 Contatos 
 
