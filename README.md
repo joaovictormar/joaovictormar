@@ -18,8 +18,8 @@ Desenvolvedor, técnico de suporte de TI e apaixonado por tecnologia! Atualmente
 </div>
 <br>
 
-:books: Atualmente estou aprendendo sobre React.<br>
-:pencil: Cursando ADS - 4/6
+:books: Atualmente estou aprendendo sobre Nest.js<br>
+:pencil: Cursando ADS - 5/6
 :man_technologist: Trabalhando com suporte de TI.
 
 ## 💬 Contatos 
