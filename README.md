@@ -3,7 +3,7 @@
 <p><img src="https://github-blabal-stats.vercel.app/api?username=joaovictormar&show_icons=true&theme=dark" alt="joaovictormar"></p>
 <br>
 
-Olá dev, me chamo João Victor, tenho 22 anos, sou do Rio de janeiro e apaixonado por tecnologia desde sempre. Trabalho com TI na área de suporte, estudo programação focado em desenvolvimento web na Alura e curso análise e desenvolvimento de sistemas na UVA (Universidade Veiga de Almeida).
+Desenvolvedor, técnico de suporte de TI e apaixonado por tecnologia! Atualmente trabalho com suporte de TI na NAS IT e estudo desenvolvimento web voltado para back-end na Alura.
 
 ## 🛠️ Tech Stack 
 <p><img align="left" src="https://github-blabal-stats.vercel.app/api/top-langs/?username=joaovictormar&layout=compact&theme=dark&hide=java" alt="joaovictormar"></p>
