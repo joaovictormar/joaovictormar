@@ -3,7 +3,7 @@
 <p><img src="https://github-blabal-stats.vercel.app/api?username=joaovictormar&show_icons=true&theme=dark" alt="joaovictormar"></p>
 <br>
 
-Desenvolvedor, técnico de suporte de TI e apaixonado por tecnologia! Atualmente trabalho com suporte de TI na NAS IT e estudo desenvolvimento web voltado para back-end na Alura.
+Desenvolvedor back-end, técnico de suporte de TI e apaixonado por tecnologia! Atualmente trabalho com suporte de TI na NASIT e estudo desenvolvimento web voltado para o back-end na Alura.
 
 ## 🛠️ Tech Stack 
 <p><img align="left" src="https://github-blabal-stats.vercel.app/api/top-langs/?username=joaovictormar&layout=compact&theme=dark&hide=java" alt="joaovictormar"></p>
