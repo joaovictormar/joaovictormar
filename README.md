@@ -19,8 +19,8 @@ Desenvolvedor, técnico de suporte de TI e apaixonado por tecnologia! Atualmente
 </div>
 <br>
 
-:books: Atualmente estou estudando sobre Linux<br>
-:pencil: Cursando ADS - 5/6
+:books: Atualmente estou estudando sobre C#<br>
+:pencil: Cursando ADS - 6/6
 :man_technologist: Trabalhando com suporte de TI.
 
 ## 💬 Contatos 
