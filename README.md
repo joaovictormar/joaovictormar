@@ -3,7 +3,7 @@
 <p><img src="https://github-blabal-stats.vercel.app/api?username=joaovictormar&show_icons=true&theme=dark" alt="joaovictormar"></p>
 <br>
 
-Desenvolvedor back-end, técnico de suporte de TI e apaixonado por tecnologia! Atualmente trabalho com suporte de TI na NASIT e estudo desenvolvimento web voltado para o back-end na Alura.
+Desenvolvedor back-end e apaixonado por tecnologia! Atualmente trabalho como desenvolvedor de software na NASIT e curso Análise e desenvolvimento de sistemas na UVA.
 
 ## 🛠️ Tech Stack 
 <p><img align="left" src="https://github-blabal-stats.vercel.app/api/top-langs/?username=joaovictormar&layout=compact&theme=dark&hide=java" alt="joaovictormar"></p>
@@ -21,7 +21,7 @@ Desenvolvedor back-end, técnico de suporte de TI e apaixonado por tecnologia! A
 
 :books: Atualmente estou estudando sobre C#<br>
 :pencil: Cursando ADS - 6/6
-:man_technologist: Trabalhando com suporte de TI.
+:man_technologist: Trabalhando com desenvolvimento Full Stack.
 
 ## 💬 Contatos 
 
