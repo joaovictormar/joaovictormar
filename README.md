@@ -31,15 +31,15 @@ Desenvolvedor back-end e apaixonado por tecnologia! Atualmente trabalho como des
 
 <div>
   <a href="mailto:joaomarquesvictor22@hotmail.com" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" style="border-radius: 6px;" alt="Hotmail Badge">
+    <img loading="lazy" src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Hotmail Badge">
   </a>
 
   <a href="https://www.linkedin.com/in/joaovictormar" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 6px;" alt="LinkedIn Badge">
+    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
 
   <a href="https://instagram.com/" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 6px;" alt="Instagram Badge">
+    <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
   </a>
 </div>
 
