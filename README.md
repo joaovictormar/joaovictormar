@@ -30,7 +30,7 @@ Desenvolvedor back-end e apaixonado por tecnologia! Atualmente trabalho como des
 ## 💬 Contatos 
 
 <div>
-  <a href ="mailto:joaomarquesvictor22@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">  </a>
-  <a href="https://www.linkedin.com/in/joaovictormar" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-           badge&logo=linkedin&logoColor=white" target="_blank" width="110" height="28"></a>
+  <a href="mailto:joaomarquesvictor22@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank" width="110" height="28"></a>
+<a href="https://www.linkedin.com/in/joaovictormar" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="110" height="28"></a>
   <a href="https://instagram.com/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-thbadge&logo=instagram&logoColor=white" target="_blank" width="110" height="28"></a> 
 </div>
